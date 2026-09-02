@@ -1,5 +1,4 @@
-```Python
-readme_content = """# Python Basics & Practice Scripts
+Python Basics & Practice Scripts
 
 A collection of beginner-friendly Python scripts demonstrating fundamental programming concepts, object-oriented programming (OOP) basics, and standard algorithmic logic.
 
